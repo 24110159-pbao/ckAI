@@ -27,7 +27,7 @@ Cửa sổ Menu chính sẽ hiện ra với 6 nút chọn Level tương ứng 6 
 
 Mỗi Level đều có giao diện gồm:
 
-- **Bản đồ (bên trái):** lưới ô vuông gồm các loại địa hình — cỏ, đất, đá, dung nham, đá tảng (vật cản), Steve (điểm xuất phát), kim cương (đích đến).
+- **Bản đồ (bên trái):** lưới ô vuông gồm các loại địa hình — cỏ, đất, đá, obsidian (vật cản), Steve (điểm xuất phát), kim cương (đích đến).
 - **Bảng điều khiển AI (bên phải):**
   - **Chọn thuật toán:** menu thả xuống để chọn thuật toán AI muốn xem hoạt động.
   - **Nút "Run AI":** cho AI tự động tìm đường và mô phỏng Steve di chuyển tới kim cương theo thuật toán đã chọn.
